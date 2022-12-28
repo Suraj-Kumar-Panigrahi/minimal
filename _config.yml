@@ -1,13 +1,20 @@
 title: <p align="center"> Suraj Kumar Panigrahi </p>
 logo: /assets/img/Suraj.jpg
+
 description:
   <p align="center">
-  <a href="resume">Resume</a> |
+  <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/suraj-kumar-panigrahi/">LinkedIn</a> |
   <a href="https://github.com/Suraj-Kumar-Panigrahi">GitHub</a>
-<br>   
-  I am working as a backend web developer at Volvo Cars.
-  I am also a interested in the AI and ML domain and currently a trying my hands on the same with support from IIT-B and UpGrad.
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
   <br>
   </p>
+
+
+
 theme: jekyll-theme-minimal

@@ -1,6 +1,16 @@
 title: Minimal theme
 logo: /assets/img/Suraj.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description:   <p align="center">
+  <a href="/">Resume</a> |
+  <a href="https://www.linkedin.com/in/suraj-kumar-panigrahi/">LinkedIn</a> |
+  <a href="https://github.com/Suraj-Kumar-Panigrahi">GitHub</a>
+   <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
+  <br>
+  </p>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

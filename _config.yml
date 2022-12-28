@@ -1,6 +1,13 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Suraj Kumar Panigrahi </p>
+logo: /assets/img/Suraj.jpg
+description:
+  <p align="center">
+  <a href="">Resume</a> |
+  <a href="https://www.linkedin.com/in/suraj-kumar-panigrahi/">LinkedIn</a> |
+  <a href="https://github.com/Suraj-Kumar-Panigrahi">GitHub</a>
+<br>   
+  I am working as a backend web developer at Volvo Cars.
+  I am also a interested in the AI and ML domain and currently a trying my hands on the same with support from IIT-B and UpGrad.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
